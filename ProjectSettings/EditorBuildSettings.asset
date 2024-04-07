@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 1d1e7be4223ae40ad88f33236fe9c735
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track1.unity
+    guid: bf657abb23af4434b8a1a3e49df80285
+  - enabled: 1
+    path: Assets/_Udemy Racer Assets/Tracks/Track3_Desert.unity
+    guid: ebd4f4be8f166894cb11dd63195b1c95
+  - enabled: 1
+    path: Assets/Scenes/Tracks/Track2.unity
+    guid: e8295689f64b844fbb03ed1cc0d533ec
+  m_configObjects: {}
